@@ -1,0 +1,1 @@
+A method is a block of code that performs a specific task. It is similar to a function in other programming languages. Methods are defined within classes and are used to perform certain actions and return results. They help in organizing code and making it reusable. A method can take parameters as input, perform some operations, and then return a result.
